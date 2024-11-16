@@ -218,3 +218,4 @@ Score: ${score}`);
         requestAnimationFrame(Animate);
     }
 }
+
